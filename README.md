@@ -1,7 +1,3 @@
-## Hi there 👋
-# 💫 About Me:
-Currently working on creating tech solutions to problems in society<br>Looking forward to collaborate on creating web3 tech solutions<br>Looking for help in deep understanding of Machine learning<br>Currently learning Automations<br>Ask me about anything tech related I love to learn new things everyday<br><br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Eunice Wairimu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello.nimmo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eunice Muturi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nimo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muturieunice18@gmail.com) 
